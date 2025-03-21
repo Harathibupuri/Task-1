@@ -1,8 +1,9 @@
 
 
-TITLE: E-commerce website
+## TITLE: 
+gitE-commerce website
 
-Discription:
+## Discription:
 
 This is a full-featured e-commerce web application where buyers and sellers can trade goods and services over the internet. The application is built using ReactJS for the frontend and Node.js with Express for the backend, while MySQL is used as the database.
 
@@ -111,4 +112,3 @@ For any questions or suggestions, feel free to reach out at [harathiemail@google
 
 ```
 
-Let me know if you’d like any changes or additions to the README!
