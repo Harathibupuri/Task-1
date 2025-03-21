@@ -1,7 +1,7 @@
 
 
 ## TITLE: 
-gitE-commerce website
+E-commerce website
 
 ## Discription:
 
